@@ -493,8 +493,7 @@ padding: 0px 20px !important;
 }
 .design_bg .des1{
     position: absolute;
-    max-width: 350px;
-    inset: 0px;
+    max-width: 300px;
     left: 50% !important;
 }
 .accordion-item {
